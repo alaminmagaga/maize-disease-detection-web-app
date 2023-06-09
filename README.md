@@ -13,10 +13,14 @@ This web application is built using Flask and aims to detect maize diseases. It 
 To run the web app locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-<br>git clone https://github.com/your-username/maize-disease-detection.git
+```
+git clone https://github.com/your-username/maize-disease-detection.git
+```
 
 2. Change to the project directory:
-<br>cd maize-disease-detection
+```
+cd maize-disease-detection
+```
 
 
 3. Create a virtual environment to install the required dependencies:
@@ -35,4 +39,34 @@ python3 -m venv venv
   ```
 
 5. Install the dependencies:
+```
+pip install -r requirements.txt
+```
+
+6. Run the Flask development server:
+<br>Open your web browser and navigate to `http://localhost:5000` to access the web app.
+
+## Usage
+
+1. After accessing the web app, you will be presented with an interface to upload an image of a maize plant.
+
+2. Click the "Choose File" button and select an image from your local machine that you want to analyze.
+
+3. Once the image is uploaded, the web app will process it using machine learning algorithms to detect any potential diseases.
+
+4. The app will display the diagnosis, providing the name of the disease affecting the plant.
+
+5. Below the diagnosis, you can find detailed information about the causes of the disease and suggested methods of control.
+
+6. If desired, you can repeat the process with different images to detect and learn about various maize diseases.
+
+## Contributing
+
+Contributions are welcome! If you encounter any issues with the web app or would like to contribute improvements, please follow these steps:
+
+1. Fork the repository on GitHub.
+
+2. Create a new branch from the main branch.
+
+
 
