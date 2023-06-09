@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 2. Click the "Choose File" button and select an image from your local machine that you want to analyze.
 
-3. Once the image is uploaded, the web app will process it using machine learning algorithms to detect any potential diseases.
+3. Once the image is uploaded, the web app will process it.
 
 4. The app will display the diagnosis, providing the name of the disease affecting the plant.
 
