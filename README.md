@@ -14,3 +14,23 @@ To run the web app locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 <br>git clone https://github.com/your-username/maize-disease-detection.git
+
+2. Change to the project directory:
+<br>cd maize-disease-detection
+
+
+3. Create a virtual environment to install the required dependencies:
+<br>python3 -m venv venv
+
+4. Activate the virtual environment:
+- For Windows:
+  ```
+  venv\Scripts\activate
+  ```
+- For macOS/Linux:
+  ```
+  source venv/bin/activate
+  ```
+
+5. Install the dependencies:
+
