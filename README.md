@@ -13,4 +13,4 @@ This web application is built using Flask and aims to detect maize diseases. It 
 To run the web app locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/maize-disease-detection.git
+<br>git clone https://github.com/your-username/maize-disease-detection.git
