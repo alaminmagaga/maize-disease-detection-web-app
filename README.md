@@ -1,6 +1,6 @@
 # Maize Disease Detection Web App
 
-This web application is built using Flask and aims to detect maize diseases. It provides information on the causes of the diseases and suggests methods of control. The app utilizes machine learning algorithms to analyze input images of maize plants and identify potential diseases.
+This web application is built using Flask and aims to detect maize diseases. It provides information on the causes of the diseases and suggests methods of control. The app analyze input images of maize plants and identify and predict potential diseases.
 
 ## Features
 
@@ -13,3 +13,4 @@ This web application is built using Flask and aims to detect maize diseases. It 
 To run the web app locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
+git clone https://github.com/your-username/maize-disease-detection.git
